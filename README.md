@@ -22,13 +22,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 13 Contributions in the Year 2022
+> 🏆 15 Contributions in the Year 2022
  > 
-> 📦 26.6 kB Used in GitHub's Storage 
+> 📦 27.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,16 +43,16 @@
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    6 commits      ███████████████░░░░░░░░░░   60.0% 
-🌙 Night      4 commits      ██████████░░░░░░░░░░░░░░░   40.0%
+🌃 Evening    6 commits      ████████████░░░░░░░░░░░░░   50.0% 
+🌙 Night      6 commits      ████████████░░░░░░░░░░░░░   50.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       2 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      4 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
-Wednesday    4 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Monday       2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Tuesday      4 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Wednesday    6 commits      ████████████░░░░░░░░░░░░░   50.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -92,7 +94,7 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Sachita007/Sachita007/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2022 21:36:57 UTC
+ Last Updated on 01/11/2022 23:18:40 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
