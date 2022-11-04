@@ -20,17 +20,17 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 25 Contributions in the Year 2022
  > 
-> 📦 52.8 kB Used in GitHub's Storage 
+> 📦 52.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,20 +41,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-🌆 Daytime    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-🌃 Evening    10 commits     ██████████████░░░░░░░░░░░   55.56% 
-🌙 Night      6 commits      ████████░░░░░░░░░░░░░░░░░   33.33%
+🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+🌆 Daytime    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+🌃 Evening    14 commits     ████████████████░░░░░░░░░   63.64% 
+🌙 Night      6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Tuesday      4 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Wednesday    6 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Wednesday    6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       6 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Friday       10 commits     ███████████░░░░░░░░░░░░░░   45.45% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -100,7 +100,7 @@ CSS                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sachita007/Sachita007/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 15:48:42 UTC
+ Last Updated on 04/11/2022 18:50:09 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
