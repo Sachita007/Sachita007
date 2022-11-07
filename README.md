@@ -20,9 +20,9 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
@@ -67,22 +67,24 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      9 hrs 1 min         ███████████████░░░░░░░░░░   62.75% 
-HTML                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
+CSS                      9 hrs 42 mins       ███████████░░░░░░░░░░░░░░   46.33% 
+JavaScript               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+EJS                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+HTML                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 🔥 Editors: 
-VS Code                  14 hrs 23 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 57 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-news-homepage-main       13 hrs              ██████████████████████░░░   90.4% 
-python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
-todolist                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+news-homepage-main       13 hrs              ███████████████░░░░░░░░░░   62.1% 
+todolist                 6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   30.09% 
+blogWebsite              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
+python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
+ejs-challenge            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 💻 Operating System: 
-Windows                  14 hrs 23 mins      █████████████████████████   100.0%
+Windows                  20 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +103,7 @@ CSS                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sachita007/Sachita007/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 02:06:24 UTC
+ Last Updated on 07/11/2022 18:50:32 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
