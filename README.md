@@ -20,43 +20,43 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2022
+> 🏆 30 Contributions in the Year 2022
  > 
-> 📦 52.9 kB Used in GitHub's Storage 
+> 📦 79.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-🌆 Daytime    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-🌃 Evening    14 commits     ███████████████░░░░░░░░░░   60.87% 
-🌙 Night      6 commits      ██████░░░░░░░░░░░░░░░░░░░   26.09%
+🌞 Morning    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+🌆 Daytime    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+🌃 Evening    14 commits     ████████████░░░░░░░░░░░░░   48.28% 
+🌙 Night      9 commits      ███████░░░░░░░░░░░░░░░░░░   31.03%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Wednesday    6 commits      ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       10 commits     ██████████░░░░░░░░░░░░░░░   43.48% 
+Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Tuesday      4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Wednesday    6 commits      █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Friday       10 commits     ████████░░░░░░░░░░░░░░░░░   34.48% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+Sunday       5 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24%
 
 ```
 
@@ -67,43 +67,34 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.21% 
-JavaScript               5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-EJS                      4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92% 
-HTML                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
+Python                   4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   42.3% 
+JavaScript               3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.26% 
+C                        1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
+HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 🔥 Editors: 
-VS Code                  24 hrs 9 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-news-homepage-main       13 hrs              █████████████░░░░░░░░░░░░   53.88% 
-todolist                 6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   26.11% 
-ejs-challenge            3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
-blogWebsite              46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
-python                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
+VS Code                  5 hrs 53 mins       ██████████████░░░░░░░░░░░   57.52% 
+PyCharmCore              4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   42.48%
 
 💻 Operating System: 
-Windows                  24 hrs 9 mins       █████████████████████████   100.0%
+Windows                  10 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
-CSS                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Sachita007/Sachita007/main/charts/bar_graph.png) 
-
-
- Last Updated on 08/11/2022 19:01:32 UTC
+ Last Updated on 24/12/2022 21:14:13 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
