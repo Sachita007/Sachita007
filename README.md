@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
@@ -67,18 +67,18 @@ Sunday       5 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.96% 
-JavaScript               3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.2% 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
-C                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-EJS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
+JavaScript               3 hrs 37 mins       █████████████░░░░░░░░░░░░   51.77% 
+Python                   2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.07% 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+C                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+EJS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       █████████████░░░░░░░░░░░░   51.84% 
-PyCharmCore              4 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.16%
+VS Code                  4 hrs 40 mins       ████████████████░░░░░░░░░   66.67% 
+PyCharmCore              2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.33%
 
 💻 Operating System: 
-Windows                  9 hrs 1 min         █████████████████████████   100.0%
+Windows                  7 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 26/12/2022 00:29:48 UTC
+ Last Updated on 27/12/2022 00:29:05 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
