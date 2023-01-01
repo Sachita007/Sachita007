@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 30 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 79.7 kB Used in GitHub's Storage 
  > 
@@ -93,7 +93,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 31/12/2022 00:28:04 UTC
+ Last Updated on 01/01/2023 00:32:38 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
