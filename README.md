@@ -77,19 +77,19 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
-HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 00:31:34 UTC
+ Last Updated on 22/02/2023 00:26:53 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
