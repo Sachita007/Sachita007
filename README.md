@@ -24,47 +24,45 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2023
- > 
 > 📦 80.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning        3 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime        3 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌃 Evening       15 commits       ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night          9 commits       ███████░░░░░░░░░░░░░░░░░░   30.00 % 
-
+🌞 Morning                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌃 Evening                15 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  9 commits           ████████░░░░░░░░░░░░░░░░░   30.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday           2 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Tuesday          5 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday        6 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday         2 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Friday          10 commits       ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Saturday         0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday           5 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-
+Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Tuesday                  5 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Thursday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Friday                   10 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -74,7 +72,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,12 +81,12 @@ JavaScript               2 repos             ████████░░░�
 HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-
 ```
 
 
 
- Last Updated on 22/02/2023 00:26:53 UTC
+
+ Last Updated on 23/02/2023 00:28:01 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
