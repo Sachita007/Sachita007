@@ -65,16 +65,13 @@ Sunday                   5 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 49 mins        █████████████████████████   98.08 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +86,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/05/2023 00:28:58 UTC
+ Last Updated on 15/05/2023 00:27:49 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
