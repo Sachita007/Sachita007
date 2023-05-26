@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
 
@@ -90,7 +90,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/05/2023 00:25:24 UTC
+ Last Updated on 26/05/2023 00:27:09 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
