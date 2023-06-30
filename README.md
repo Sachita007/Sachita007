@@ -34,7 +34,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -86,7 +86,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/06/2023 00:34:04 UTC
+ Last Updated on 30/06/2023 00:32:34 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
