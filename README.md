@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -30,32 +30,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2023
+> 🏆 13 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-🌆 Daytime                6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌃 Evening                21 commits          █████████████░░░░░░░░░░░░   53.85 % 
-🌙 Night                  9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌞 Morning                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+🌆 Daytime                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌃 Evening                21 commits          ████████████░░░░░░░░░░░░░   48.84 % 
+🌙 Night                  9 commits           █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Tuesday                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Wednesday                11 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Thursday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   11 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Tuesday                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Wednesday                12 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Friday                   13 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ```
 
 
@@ -65,17 +65,17 @@ Sunday                   5 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               16 hrs 52 mins      ████████████████████████░   96.08 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Debian Control file      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               20 hrs 29 mins      ████████████████████████░   96.02 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 04/08/2023 00:29:26 UTC
+ Last Updated on 05/08/2023 00:29:09 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
