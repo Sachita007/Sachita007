@@ -20,17 +20,17 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2023
+> 🏆 22 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-🌆 Daytime                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌃 Evening                21 commits          ████████████░░░░░░░░░░░░░   48.84 % 
-🌙 Night                  9 commits           █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+🌃 Evening                23 commits          ███████████░░░░░░░░░░░░░░   42.59 % 
+🌙 Night                  16 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Tuesday                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Wednesday                12 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   13 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Tuesday                  11 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Wednesday                13 commits          ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Thursday                 7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Friday                   15 commits          ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Sunday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 ```
 
 
@@ -65,32 +65,32 @@ Sunday                   5 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               14 hrs 26 mins      ███████████████████████░░   93.51 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JavaScript               10 hrs 13 mins      ███████████████████████░░   92.56 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 11/08/2023 00:23:13 UTC
+ Last Updated on 12/08/2023 00:22:28 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
