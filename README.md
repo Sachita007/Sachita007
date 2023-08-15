@@ -19,17 +19,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-989.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-990.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2023
+> 🏆 31 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-🌆 Daytime                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌃 Evening                22 commits          ██████████░░░░░░░░░░░░░░░   38.60 % 
-🌙 Night                  23 commits          ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌞 Morning                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌃 Evening                23 commits          ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌙 Night                  23 commits          ██████████░░░░░░░░░░░░░░░   39.66 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Wednesday                12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Friday                   13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Sunday                   15 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Wednesday                12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Friday                   13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Sunday                   15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
 ```
 
 
@@ -64,17 +64,17 @@ Sunday                   15 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs 28 mins      ██████████████████████░░░   87.46 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JavaScript               15 hrs 14 mins      ██████████████████████░░░   87.59 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/08/2023 00:24:47 UTC
+ Last Updated on 15/08/2023 00:23:40 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
