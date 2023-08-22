@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-992.3%20thousand%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   15 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               16 hrs 43 mins      ████████████████████████░   96.10 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               10 hrs 53 mins      ████████████████████████░   96.06 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2023 00:24:09 UTC
+ Last Updated on 22/08/2023 00:24:01 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
