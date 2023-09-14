@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-999.3%20thousand%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   20 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 35 mins       █████████████████████░░░░   85.61 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript               7 hrs 22 mins       █████████████████████░░░░   83.83 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2023 00:24:54 UTC
+ Last Updated on 14/09/2023 00:24:42 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
