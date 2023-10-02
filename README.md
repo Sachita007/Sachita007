@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -65,17 +65,17 @@ Sunday                   24 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 hrs 19 mins      ██████████████████████░░░   87.57 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               12 hrs 42 mins      ███████████████████████░░   91.65 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2023 00:29:39 UTC
+ Last Updated on 02/10/2023 00:26:02 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachita007&show_icons=true&locale=en&layout=compact" alt="sachita007" /></p>
