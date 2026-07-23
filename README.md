@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/sachita-nand-3a7558224"><img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="Sachita Nand on LinkedIn" /></a>
 <a href="https://twitter.com/sachitan60"><img src="https://img.shields.io/badge/X-0B1020?style=flat-square&logo=x&logoColor=22D3EE" alt="Sachita Nand on X" /></a>
 <a href="https://github.com/Sachita007?tab=repositories"><img src="https://img.shields.io/badge/37+_PUBLIC_REPOS-0B1020?style=flat-square&logo=github&logoColor=22D3EE" alt="Explore Sachita's repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=Sachita007&label=PROFILE+SIGNAL&color=06B6D4&style=flat-square" alt="Sachita's profile views" />
 
 </div>
 
